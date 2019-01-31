@@ -1,0 +1,38 @@
+Lesson Seven TEXT Word Processing In our information-centered civilizat
+ion, a huge amount of effort is devoted to writing, typing, editing, st
+oring and reproducing words. It has been known for a long time that mos
+t information-handling tasks could be automated, but until recently thi
+s was prevented by the high cost of computers. The microprocessor has c
+hanged the picture completely:from now on, office procedures will be pr
+ogressively mechanized. A typecal word processing system for a small of
+fice might be assembled from the following components: (1) a microproce
+ssor CPU with 16-32K bytes of RAM, (2) a 'floppy disk' store, where eac
+h removable disk can hold some half-million characters, (3) a good-qual
+ity printer, similar to an electric typewriter, (4) a terminal with a l
+arge screen and a keyboard which has all conventional keys and a row of
+ special 'function buttios' with appropriate labels. Each function butt
+on activates a program permanently stored in the system. In use, the va
+rious office procedures are made up from sequences of the appropriate f
+unctions, much as a complex sum is worked out on a hand calculator. Som
+e of the most frequently used functions are as folllows: (1) ENTER: Thi
+s allows the typist to enter a new document (which may be a letter, a la
+rge agreement, an exam paper, a poem or anything else) on the keyboard.
+ As the document is typed it is displayed on the screen, and any correc
+tions can be made by using the 'delete' key and other keys which allow 
+existing material to be altered. This is much faster than using white p
+aint on a conventional typewriter! The 'enter' function also permits ty
+e typists to insert 'standard paragraphs' which have been previously ty
+ped and stored on the floppy disk. (2) JUSTIFY: This function takes the
+ document in system and re-arranges it so that both margins are straigh
+t lines. Justification is done by inserting extra space between words a
+nd sometimes bny hyphenation, and it makes the text look like printing 
+rather than typing. (3) PRINT: The document in the system is sent to th
+e printer, where it may appear at the rate of 60 characters per second 
+(that is about 10 times as fast as a humaan typist at full speed). (4) 
+FILE: The document is sent to the floppy disk, together with the curren
+t data and a name chosen by the typist. This name serves to identify an
+d retrivee the document if it is needed later. (5) RETRIEVE: Given a na
+me (and possibly a date), this function will fetch the corresponding do
+cument from the floppy disk and bring it into the system. The document 
+will be displayed on the screen as if it had just been typed, and can b
+e changed or edited as necessary.

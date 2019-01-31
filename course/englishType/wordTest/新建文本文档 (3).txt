@@ -1,0 +1,12 @@
+/*  初始化游戏的数据  */
+    public void initGame() {
+//        this.fileReader = new HandleWordTestType(new File("course\\\\englishType\\\\wordTest"), "04.txt").getFileReader();
+//        try {
+//            c = new char [82];
+//            Reader in = fileReader;
+//            in.read(c);
+//            System.out.println(c);
+//        } catch (IOException ex) {
+//            Logger.getLogger(WordTestPanel.class.getName()).log(Level.SEVERE, null, ex);
+//        }
+    }
