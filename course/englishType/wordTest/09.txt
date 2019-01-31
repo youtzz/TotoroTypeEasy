@@ -1,0 +1,41 @@
+Lesson Eight TEXT What is High-Level Language When the very first compu
+ters were constructed the only way to program them was to write in mach
+ine code. This was a specialized task and it took a very long time to p
+roduce a good working program. It also needed an intimate knowledge of 
+the computer itself. Soon, however, people other than the computer engi
+neers wanted to use the computer and to computer engineers themselves w
+anted an easier nethod of programming. Consequently, system were develo
+ped that allowed symbolic representation of instructions, addresses and
+ lables. Such systems were known as symbolic or assembly-level language
+s. They made program writing easier but needed a complex program (calle
+d an assembler) to convert them. This led on to machine-independent hig
+h-level languages which had to be translated or compied into machine co
+de. These translators or compilers were very complex programs. Thus a n
+ew branch of computing was born, that of compiler writing, which in tru
+n generated further research into the programming languages themseleves
+. The application to which a computer is put does not in general bear a
+ny relationship to the computer itself. Hence, during the 1950s the fir
+st attempts were made to producte language that bore no relationship to
+ the computer architecture but concentrated solely on the application. 
+There were two principal languages, FORTRAN and ALGOL. FORTRAN (Formula
+ Translation) was developed by IBM in the USA and was running on its 79
+40 machines by 1958. It was designed for the compuation of scientific f
+ormula. ALGOL (Algorithmic Language) was developed in Europe as a machi
+ne-independent language for specifying algorighms for problem solving. 
+It divorced itself form the computer to such an extent that Input and O
+utput commands were not specified. As computers moved out of the realm 
+of mathematical calculators, there was need for a language for commeric
+al programming. For some time the language COBOL (Common Business Orien
+ted Language) had been under development. COBOL was designed to be very
+ close to normal written English and it became established as the langu
+age for the programming of commercial applications. This resulted in th
+e specification of COBOL 66 in 1996. Since then, many programming langu
+ages have emarged, both as extensions to the early ones and as new deve
+lpments. Particularly, there have appeared heavily specialized language
+s for writing language compilers, operating systems, real-time systems 
+and transaction processing systems, and a number of more general-purpos
+e languages. Another significant development has been the design of com
+puters with the needs of the high-level language in mind. Although the 
+initial impetus was to produce languages that made the production of ma
+chine code easier it has been found by experience that high-level progr
+amming languages also have other benefits.

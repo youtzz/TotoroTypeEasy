@@ -1,0 +1,54 @@
+Lesson Four TEXT Important PC Keys ENTER or RETURN Usually placed where
+ the carriage-return key would be on an electric typewriter. Sometimes 
+the ENTER key is marked with an arrow pointing down and the left. In th
+is book we will always speak of the ENTER key, but if you have a keyboa
+rd with a key labeled RETURN, it does exactly the same thing as a key l
+abeled ENTER. SHIFT Located at the lower left and lower rights of alpha
+numeric part of the keyboard. This key works by pressing it together wi
+th other keys: usually, the action is to capitalize a letter, but somet
+imes there may effects. If you are not a practiced typist, you should u
+se this key by pushing it down first, then pressing the other key with 
+which it must work. The release both key. If try to push the keys exact
+ly together, you will probably fail, and may not get what want. By itse
+lf, the SHIFT key normally does nothing whatever. CAPS LOCK Usually loc
+ated at the left of the alphanumeric part of the ke4yboard, except om I
+BM computers, where it may be at lower rights corner of the alphanumeri
+c portion. This key is not like the 'shoft-lock' key on a typewriter; i
+ts action applies only to the alphabetic keys. Numerals and punctuation
+ keys are not affected by CAPS LOCK. CONTROL (probably marked CTRL) Usu
+ally placed on the left wide of the alphanumeric (main) part of the key
+board. This key functions like a typewriter's shift key-you push it and
+ hold it down while you press another key. This key is typically marked
+ 'ctrl' or something similar. ALT Usually placed near the lower left si
+de of the alphanumeric (main) part of the keyboard. This key is like th
+e CONTROL and SHIFT keys-it works in combination with other keys; yoju 
+depress and hold down ALT while typing the other key. ESCAPE (probably 
+marked Esc) Usually at the top left of the alphanumeric portion. This k
+ey is usually pressed by itself. It often has function of interrupting 
+or stopping a program. Some times it will cause a process to stop and t
+he previous one to resume. BACKSPACE Usually at the top right of the al
+phanumeric portion. This key usually erases characters to the left of t
+he cursor. It is not the same as the LEFT arrow key, located on the num
+eric/cursor keypad, although both keys are often marked with an arrow p
+ointing to the left. NUM LOCK Located at the top of the numeric keypad.
+ This key is toggle (on-off) switch change the action of the numeric ke
+ypad keys from cursor to numbers, and back again. SCROLL LOCK/BREAK Loc
+ated at the top of the numeric keypad (on most machines). On IBM keyboa
+rds, this key may say SCROLL LOCK on this top, with BREAK written on th
+e face of the key. BREAK is, normally say, meant to be used in combinat
+ion with the CONTROL key; pressing CONTROL+BREAK will usually halt a pr
+ogram or command. Cursor movement keys are marked on the numeric keypad
+. When the keypad is in cursor mode (set by NUM LOCK), the arrow keys a
+nd other keys function to move the cursor around the CRT screen. INS an
+d DEL These keys insert and delete (respectively) characters at the cur
+sor position. This are heavily used in application like word processing
+. Function keys Usually located either at the extreme left of the keybo
+ard or across the top. These keys are under the control of applications
+ programs, so they can havge different functions from program to progra
+m or even inside a program; to know what they do you must read the manu
+al for the program which you are using. The function keys can be used i
+n combination with ALT, WHIFT, and CONTROL. F1 This function key is loc
+ated on the extreme left of the keyboard or, on some make change to the
+ end of it ,this key almost NEVER works the same way inside an applicat
+ion program. F3 will retype the entire last command given, let you edit
+ it (using BACKSPACE, etc), then press ENTER.
